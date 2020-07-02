@@ -1,6 +1,8 @@
 # About
 [Official Shady-Cube Website](https://shady-cube.github.io/about/)
+
 [Official Shady-Cube YouTube channel](https://www.youtube.com/channel/UC9EDLhh6ePIDCxXG0HKR0zw)
+
 [Official Shady-Cube Discord Server](https://shady-cube.github.io/about/) *Note: Coming soon!
 
 # Recent Projects
