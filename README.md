@@ -6,7 +6,7 @@
 # Recent Projects
 
 [NanoClicker](https://shady-cube.github.io/NanoClicker/)  
-About NanoClicker: NanoClicker is a very compact and lightweight autoclicker. It is also the match perfect for beginners because of it's simplistic user interface.
+About NanoClicker: NanoClicker is a very compact and lightweight autoclicker. It is also the perfect match for beginners because of it's simplistic user interface.
 
 [ClickerUtils](https://shady-cube.github.io/About/)  
 About ClickerUtils: ClickerUtils is currently in early development. It is planned to be a Utility tool for survival worlds.
