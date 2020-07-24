@@ -12,5 +12,5 @@ About OpenDorks: OpenDorks is a free to use Open-Source dork generator.
 
 # Contact
 
-Discord: Shady-Cube#1516 you can also [join my discord server](https://discord.gg/TUfjecp)
+Discord: Shady-Cube#1516 you can also [join my discord server](https://discord.gg/TUfjecp)  
 Email: Shady-Cube@protonmail.com
